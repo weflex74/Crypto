@@ -4,3 +4,4 @@ a) Secure notes
 b) File encryption
 c) Generating SSH keys
 d) Advanced brute-force protection
+The code was written using AI
